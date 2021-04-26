@@ -1,0 +1,7 @@
+C:\Users\omni\source\repos\omni\bin\Debug\omni.exe.config
+C:\Users\omni\source\repos\omni\bin\Debug\omni.exe
+C:\Users\omni\source\repos\omni\bin\Debug\omni.pdb
+C:\Users\omni\source\repos\omni\obj\Debug\omni.csprojAssemblyReference.cache
+C:\Users\omni\source\repos\omni\obj\Debug\omni.csproj.CoreCompileInputs.cache
+C:\Users\omni\source\repos\omni\obj\Debug\omni.exe
+C:\Users\omni\source\repos\omni\obj\Debug\omni.pdb
